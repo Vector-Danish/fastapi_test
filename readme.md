@@ -16,9 +16,13 @@
 
 ## Install dependencies
     1. setup python environment
+        Linux:
+            Create a virtual environment: python3 -m venv env_name.
+            Activate the virtual environment: source env_name/bin/activate.
 
-        command: python2 -m venv venv
-                source venv/bin/activate
+        Windows:
+            Create a virtual environment: python -m venv env_name.
+            Activate the virtual environment: .\env_name\Scripts\activate
 
     2. Install requirements.txt file 
         command: pip install -r requirements.txt
