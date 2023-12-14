@@ -5,7 +5,7 @@
 
    ```bash
    git clone https://github.com/your-username/fastapi-user-registration.git
-   cd fastapi-user-registration
+   cd fastapi_test
 
 2. Make sure you have the following installed:
 
